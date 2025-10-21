@@ -1,1 +1,5 @@
-
+- title: "Attention Is All You Need"
+  category: "LLM"
+  date: "2025-09-04"
+  link: "https://arxiv.org/abs/1706.03762"
+  note: "The paper that introduced the Transformer architecture, which has become the foundation for many modern language models."
