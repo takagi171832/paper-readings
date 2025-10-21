@@ -1,0 +1,14 @@
+[project]
+name = "paper-readings"
+version = "0.1.0"
+description = "Personal paper reading log with automatic visualization"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib>=3.10.5",
+    "mplcyberpunk>=0.7.6",
+    "pyyaml>=6.0.2",
+]
+
+[dependency-groups]
+dev = []
